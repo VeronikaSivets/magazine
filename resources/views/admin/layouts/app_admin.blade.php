@@ -36,7 +36,7 @@
                     <ul class="navbar-nav mr-auto">
 						<!-- Example single danger button -->
 <div class="btn-group">
-  <button type="button" class="btn btn-white dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Action
   </button>
   <div class="dropdown-menu">
